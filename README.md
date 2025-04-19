@@ -1,4 +1,4 @@
-# Quantum: Experiments & Notebooks by KOQ-UTX
+# Quantum: Experiments & Notebooks
 Implementation &amp; Notebooks for Various Quantum Computing Tasks and Circuits
 
 
